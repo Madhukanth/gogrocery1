@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_c90506c62c19f3a9c593b99bfb1d6f9c90d5a563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.51.0_180cfb2012550470a082c995d5bafbdbc7d9dac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.3.0_99e2cd6d998d6f8723d58bfa5040b79ce8a4cc04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.3.0_648cd89178cfdefc83c0bbc88fb128b52580e250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.3.0_3d58645725eb82dfeb0e8016521f28579ceb8611.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_a214f82a7989732e7bf3c6f622d26be5c93d73cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_3bd42a21a7faebebb73d75bb6429523988d92625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_cbca5eecfd668b7cb6fb1f30caf710539b73f7aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1_bc70dbc1eb5e3c141c4a62e49316f4e50bb55748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.3.0_22f40d320f94a1873d4616ec249ebda08952e7ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1_e5bfa243415a7e9599486df1c19c4eccca6c994c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/javax.inject-1_e53822674b827d081cdbbe191cbe54e5d8a9f1e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/okio-1.13.0_1fb86c2eaccfa6c1045ca23f69d8a881cd05d138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_de59f7b9ee5db4396b72fda75fe6f9dac936dbc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_0b3cdf60bba55ff02b5ed2ebe99f5e48c72c5120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_f24b4ce73410f1c943c6ec8c0e2a34b4780ea9a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.3.0_c54de9ed7182c3369239b8c06a3036249681bc4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_1df74454b4d9d9abc7331f55c970e9d954323802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.1_f2c3f770e228b38d762e8b3d4a548789565f23b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/gogrocery1/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5e8ab25e82aeac62f0f98ad05caaa49a5821c499">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/gogrocery1-react-native-vector-icons-unspecified_36d788c0b64c72bfaf5bbdcfccd465f1b8b3196d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.0.1_56edbd5f66029e60f8685ff59e24a3f8b3e22625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madhukanth/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/madhukanth/projects/gogrocery/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.6.0_446d357e1a28a62fec8b28f267514024e8cc347d.jar" />
+    </item>
+
+</items>

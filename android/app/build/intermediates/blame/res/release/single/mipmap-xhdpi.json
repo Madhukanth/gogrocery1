@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/madhukanth/projects/gogrocery/android/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/madhukanth/projects/gogrocery/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/madhukanth/projects/gogrocery1/android/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/madhukanth/projects/gogrocery1/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

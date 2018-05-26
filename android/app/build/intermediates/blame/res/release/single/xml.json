@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/madhukanth/projects/gogrocery1/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/madhukanth/projects/gogrocery1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/madhukanth/projects/gogrocery/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/madhukanth/projects/gogrocery/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/xml/preferences.xml"
+    }
+]

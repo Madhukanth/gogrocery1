@@ -1,0 +1,13 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "rules": {
+    "linebreak-style": "off",
+    "no-console": "off",
+    "global-require": "off",
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "no-trailing-spaces": "off",
+    "no-tabs": "off",
+    "consistent-return": "off"
+  }
+}
